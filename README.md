@@ -1,4 +1,4 @@
-## Hi there 👋
+## olá, seja bem vindo ao meu perfil
 
 <!--
 **lauara15/lauara15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
